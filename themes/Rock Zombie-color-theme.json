@@ -8,7 +8,8 @@
 		"editorCursor.foreground": "#a6d1a3",
 		"editorWhitespace.foreground": "#6b6b6b",
 		"editorIndentGuide.background": "#43a748",
-		"editorLineNumber.foreground": "#43a748"
+		"editorLineNumber.foreground": "#43a748",
+		"statusBar.background": "#43a748"
 	},
 	"tokenColors": [
 		{
