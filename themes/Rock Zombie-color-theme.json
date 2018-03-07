@@ -35,7 +35,7 @@
 			"name": "Regexp",
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#9EFFFF"
+				"foreground": "#9effab"
 			}
 		},
 		{
@@ -134,7 +134,7 @@
 			"name": "Tag name",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#7B4D94"
+				"foreground": "#0aa724"
 			}
 		},
 		{
@@ -155,7 +155,7 @@
 			"name": "Library function",
 			"scope": "support.function",
 			"settings": {
-				"foreground": "#998842"
+				"foreground": "#539942"
 			}
 		},
 		{
@@ -279,21 +279,21 @@
 			"name": "Punc Def Tag",
 			"scope": "punctuation.definition.tag",
 			"settings": {
-				"foreground": "#996287"
+				"foreground": "#337275"
 			}
 		},
 		{
 			"name": "Entity Name Instance",
 			"scope": "entity.name.type.instance",
 			"settings": {
-				"foreground": "#855E78"
+				"foreground": "#337275"
 			}
 		},
 		{
 			"name": "String JS",
 			"scope": "string.quoted.js",
 			"settings": {
-				"foreground": "#C7BA00"
+				"foreground": "#82FF5C"
 			}
 		},
 		{
