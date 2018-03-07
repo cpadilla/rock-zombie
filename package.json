@@ -1,0 +1,22 @@
+{
+    "name": "rock-zombie",
+    "displayName": "Rock Zombie",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "rockzombie2",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rock Zombie",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rock Zombie-color-theme.json"
+            }
+        ]
+    }
+}
