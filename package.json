@@ -16,6 +16,11 @@
                 "label": "Rock Zombie",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Rock Zombie-color-theme.json"
+            },
+            {
+                "label": "Rock Zombie 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rock Zombie 2-color-theme.json"
             }
         ]
     }
