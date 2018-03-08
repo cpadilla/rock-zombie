@@ -66,11 +66,16 @@
 		"sideBar.background": "#000000",
 		"sideBar.border": "#00ef1c",
 		"sideBarTitle.foreground": "#00ef1c",
+		"sideBarSectionHeader.foreground": "#00ef1c",
 		"titleBar.activeForeground": "#000000",
 		"titleBar.inactiveForeground": "#000000",
 		"titleBar.activeBackground": "#000000",
 		"titleBar.inactiveBackground": "#000000",
-		"titleBar.border": "#00ef1c"
+		"titleBar.border": "#00ef1c",
+		"statusBar.background": "#00ef1c",
+		"textPreformat.foreground": "#00ef1c",
+		"textLink.foreground": "#00ef1c",
+		"textLink.activeForeground": "#00ef1c"
 	},
 	"tokenColors": [
 		{
@@ -122,7 +127,7 @@
 			"name": "Storage",
 			"scope": [
 				"storage",
-				"storage.type"
+				"storage.modifier"
 			],
 			"settings": {
 				"foreground": "#215C1F",
@@ -130,10 +135,19 @@
 			}
 		},
 		{
+			"name": "Storage Type",
+			"scope": [
+				"storage.type"
+			],
+			"settings":  {
+				"foreground": "#257c22",
+				"fontStyle": " bold italic"
+			}
+		},
+		{
 			"name": "Keyword",
 			"scope": [
-				"keyword",
-				"storage.modifier"
+				"keyword"
 			],
 			"settings": {
 				"foreground": "#00EF1C"
@@ -153,7 +167,6 @@
 			"name": "Operator, Misc",
 			"scope": [
 				"constant.other.color",
-				"punctuation",
 				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
