@@ -85,8 +85,8 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#00EF1C"
+				"foreground": "#154415",
+				"fontStyle": " bold  italic"
 			}
 		},
 		{
@@ -119,10 +119,20 @@
 			}
 		},
 		{
-			"name": "Keyword, Storage",
+			"name": "Storage",
+			"scope": [
+				"storage",
+				"storage.type"
+			],
+			"settings": {
+				"foreground": "#215C1F",
+				"fontStyle": " bold  italic"
+			}
+		},
+		{
+			"name": "Keyword",
 			"scope": [
 				"keyword",
-				"storage.type",
 				"storage.modifier"
 			],
 			"settings": {
@@ -130,9 +140,18 @@
 			}
 		},
 		{
+			"name": "Keyword Control",
+			"scope": [
+				"keyword.control"
+			],
+			"settings": {
+				"foreground": "#48ff00",
+				"fontStyle": " bold"
+			}
+		},
+		{
 			"name": "Operator, Misc",
 			"scope": [
-				"keyword.control",
 				"constant.other.color",
 				"punctuation",
 				"meta.tag",
@@ -220,7 +239,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#00EF1C"
+				"foreground": "#0c9200"
 			}
 		},
 		{
