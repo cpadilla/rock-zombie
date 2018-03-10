@@ -178,7 +178,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#00EF1C"
+				"foreground": "#215C1F"
 			}
 		},
 		{
@@ -189,7 +189,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#00EF1C"
+				"foreground": "#26a522"
 			}
 		},
 		{
@@ -268,7 +268,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#00EF1C"
+				"foreground": "#26a522"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#00EF1C"
+				"foreground": "#26a522"
 			}
 		},
 		{
@@ -291,7 +291,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#00EF1C"
+				"foreground": "#26a522"
 			}
 		},
 		{
