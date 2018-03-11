@@ -38,6 +38,7 @@
 		"editor.background": "#000000",
 		"editor.foreground": "#00ef1c",
 		"editor.selectionForeground": "#000000",
+		"editor.selectionBackground": "#00ef1c80",
 		"editor.selectionHighlightBackground": "#000000",
 		"editorCursor.background": "#000000",
 		"editorRuler.foreground": "#000000",
