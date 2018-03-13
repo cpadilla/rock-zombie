@@ -76,7 +76,9 @@
 		"statusBar.background": "#00ef1c",
 		"textPreformat.foreground": "#00ef1c",
 		"textLink.foreground": "#00ef1c",
-		"textLink.activeForeground": "#00ef1c"
+		"textLink.activeForeground": "#00ef1c",
+		"terminal.background": "#000000",
+		"terminal.foreground": "#00ef1c"
 	},
 	"tokenColors": [
 		{
